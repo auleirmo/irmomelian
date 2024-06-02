@@ -1,0 +1,6 @@
+.im-env/
+.vscode/
+*.code-workspace
+scratchpad.py
+Music/
+__pycache__
